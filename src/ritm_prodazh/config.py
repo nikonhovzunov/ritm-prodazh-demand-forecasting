@@ -58,6 +58,7 @@ BEST_CATBOOST_PARAMS = {
 class ProjectFacts:
     name: str = "Ritm Prodazh"
     platform: str = "All Cups"
+    task_url: str = "https://cups.online/ru/tasks/3268"
     result: str = "16th place out of 125"
     task: str = "14-day item-level demand forecasting"
     target: str = TARGET_COL

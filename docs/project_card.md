@@ -4,6 +4,7 @@
 | --- | --- |
 | Project | Ritm Prodazh |
 | Platform | All Cups |
+| Task URL | https://cups.online/ru/tasks/3268 |
 | Result | 16th place out of 125 |
 | Domain | Retail demand forecasting |
 | Object | `nm_id` item-date rows |
