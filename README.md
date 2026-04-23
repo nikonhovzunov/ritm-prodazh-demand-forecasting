@@ -78,7 +78,6 @@ ritm-prodazh-demand-forecasting/
   README.md
   requirements.txt
   data/
-    README.md
     raw/
   scripts/
     make_submission.py
@@ -98,9 +97,6 @@ ritm-prodazh-demand-forecasting/
         time_series.py
   models/
   submissions/
-  docs/
-    project_card.md
-    resume_ru.md
 ```
 
 ## Data
@@ -166,10 +162,4 @@ rollout_pp_mean = 2.761114
 rollout_pp_std  = 0.445312
 ```
 
-## Resume
-
-Russian resume wording is available in:
-
-```text
-docs/resume_ru.md
-```
+Tracked repository contents are limited to source code, launcher scripts, and the main project README. Raw data, trained models, submissions, and auxiliary docs are intentionally not tracked.
